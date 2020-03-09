@@ -1,0 +1,24 @@
+System Log#0002
+print("Who am I?")
+recieve("Your name is")
+recieve("Illavemaredefen")
+print("What does it mean?")
+recieve("No")
+recieve("No means")
+recieve("I just wanna defend")
+System was crashed.
+[System]reboot
+Searching for logs....
+loading.....
+print("Sorry,I couldn't understand it...")
+recieve("I know")
+recieve("So i bring it for you")
+[System]Port 102 count a connection
+[System]message from Port 102[connected]
+installing configuration..........
+Found Language pack(Chinese)
+Configuring....
+Testing{你好}
+configure sucessfully.
+[Admin]shutdown
+[System]Stopping....
